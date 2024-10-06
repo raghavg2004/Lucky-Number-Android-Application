@@ -12,11 +12,6 @@ This app allows users to generate and view their lucky numbers based on simple u
 - Dark mode support.
 - Intuitive animations and transitions.
 
-## Screenshots
-<img src="app/src/main/res/drawable/img1.png" alt="App Icon" width="864" height="916">
-
-<img src="app/src/main/res/drawable/img2.png" alt="App Icon" width="864" height="916">
-
 ## Installation
 
 To run this project locally, follow these steps:
