@@ -1,7 +1,8 @@
-# Lucky Number Android Application
-![Icon](app/src/main/res/drawable/dice.png)
+<img src="app/src/main/res/drawable/dice.png" alt="App Icon" width="100" height="100">
 
-Welcome to the **Lucky Number**! This app allows users to generate and view their lucky numbers based on simple user inputs. The app is built using Android Studio and follows modern Android development practices.
+# Lucky Number Android Application
+
+This app allows users to generate and view their lucky numbers based on simple user inputs. The app is built using Android Studio and follows modern Android development practices.
 
 ## Features
 
@@ -12,9 +13,9 @@ Welcome to the **Lucky Number**! This app allows users to generate and view thei
 - Intuitive animations and transitions.
 
 ## Screenshots
+<img src="app/src/main/res/drawable/img1.png" alt="App Icon" width="864" height="916">
 
-![Home Screen](app/src/main/res/drawable/img1.png)
-![Lucky Number Screen](app/src/main/res/drawable/img2.png)
+<img src="app/src/main/res/drawable/img2.png" alt="App Icon" width="864" height="916">
 
 ## Installation
 
