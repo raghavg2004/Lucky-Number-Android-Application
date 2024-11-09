@@ -20,6 +20,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/raghavg2004/Lucky-Number-Android-Application.git
    ```
+   
 2. Open the project in Android Studio
 3. Build and Run
 
